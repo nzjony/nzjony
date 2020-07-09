@@ -1,4 +1,8 @@
-### Hi there 👋
+Software Engineer working at https://www.here.com/
+
+Working currently on the very awesome harp.gl powered by [three.js](https://github.com/mrdoob/three.js/) and [TypeScript](https://github.com/microsoft/TypeScript)
+
+Available at: https://www.linkedin.com/in/jonathanstichbury/
 
 <!--
 **nzjony/nzjony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
