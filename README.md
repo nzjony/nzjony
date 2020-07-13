@@ -1,8 +1,8 @@
-Software Engineer working at https://www.here.com/ in Berlin
+[here.com](https://www.here.com/) is where I work as a Software Engineer in Berlin
 
-Working currently on the very awesome 3D web renderer: [harp.gl](https://www.harp.gl/) powered by [three.js](https://github.com/mrdoob/three.js/) and [TypeScript](https://github.com/microsoft/TypeScript)
+Working on [harp.gl](https://www.harp.gl/), a 3D renderer powered by [three.js](https://github.com/mrdoob/three.js/) and [TypeScript](https://github.com/microsoft/TypeScript).
 
-I'm on [LinkedIn](https://www.linkedin.com/in/jonathanstichbury/)
+[LinkedIn](https://www.linkedin.com/in/jonathanstichbury/)
 
 ✌️
 
