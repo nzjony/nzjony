@@ -4,7 +4,7 @@ Working on [harp.gl](https://www.harp.gl/), a 3D renderer powered by [three.js](
 
 [LinkedIn](https://www.linkedin.com/in/jonathanstichbury/)
 
-✌️
+[✌️](https://www.bible.com/bible/116/JHN.14.27.NLT)
 
 <!--
 **nzjony/nzjony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
