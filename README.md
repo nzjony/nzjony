@@ -1,8 +1,6 @@
 [here.com](https://www.here.com/) is where I work as a Lead Software Engineer in Berlin
 
-Worked on [harp.gl](https://www.harp.gl/), a 3D renderer powered by [three.js](https://github.com/mrdoob/three.js/) and [TypeScript](https://github.com/microsoft/TypeScript).
-
-Now working on some internal visualization tool for HD lane map data based an harp.gl using Angular & three.js
+Developing a building editor using Vanilla JS & three.js
 
 [LinkedIn](https://www.linkedin.com/in/jonathanstichbury/)
 
