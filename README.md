@@ -1,6 +1,6 @@
 [here.com](https://www.here.com/) is where I work as a Lead Software Engineer in Berlin
 
-Developing a building editor using Vanilla JS & three.js
+Developing a HD lane editor using Vanilla JS & three.js
 
 [LinkedIn](https://www.linkedin.com/in/jonathanstichbury/)
 
